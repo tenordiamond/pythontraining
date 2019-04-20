@@ -1,4 +1,5 @@
 #Input validation with isalpha
+#git test
 catNames = []
 while True:
 	name = input('Enter the name of cat ' + str(len(catNames) +1) + ' (or type quit to stop.):')
